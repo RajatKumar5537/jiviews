@@ -10,6 +10,7 @@ public class UpdateProfile extends  BaseClass{
 
 	@Test
 	public void loginNewUser() {
+		
 	}
 
 }
